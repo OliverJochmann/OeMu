@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OeMu", "OeMu/OeMu.csproj", "{4B31AF71-3ABE-44E2-A5C7-FFE2CFB3AE49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4b31af71-3abe-44e2-a5c7-ffe2cfb3ae49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4b31af71-3abe-44e2-a5c7-ffe2cfb3ae49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4b31af71-3abe-44e2-a5c7-ffe2cfb3ae49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4b31af71-3abe-44e2-a5c7-ffe2cfb3ae49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6500213-6CF9-462C-B95D-DCF91FC64889}
+	EndGlobalSection
+EndGlobal
